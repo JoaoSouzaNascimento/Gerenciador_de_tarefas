@@ -1,6 +1,2 @@
 # Aplicação exemplo de microserviços com Node.js#
-
-- Utilizando Kafka;
-- Utilizando Node;
-- express
-- sequelize
+Essa aplicação é uma adapatação do app: https://github.com/JoaoSouzaNascimento/ADSLabsAtividadeListaDeTarefasEmFlutter
